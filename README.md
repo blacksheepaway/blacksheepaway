@@ -11,7 +11,7 @@
 
 * * *
 
-*   Atualmente, tenho conhecimento em várias linguagens de programação, incluindo Python, JavaScript e PostgreSQL. 
+*   Atualmente, tenho conhecimento em várias linguagens e frameworks, incluindo Python, JavaScript, Bootstrap, Nodejs, React e PostgreSQL. 
     
 *   Além de meu trabalho como programador, sou criador de um premiado programa de história chamado Historia Magister, focado em ensinar história de uma maneira que atraia as pessoas e ao mesmo tempo tenha toda a pesquisa com a profundidade necessária. [Site](https://historiamagister.com/) do podcast.
     
